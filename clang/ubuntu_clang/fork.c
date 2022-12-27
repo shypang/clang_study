@@ -23,6 +23,4 @@ int main(void){
         wait();
     }
     printf("PID(%d): g=%d, l=%d \n", getpid(),g,l);
-    return 0;
-    
 }
